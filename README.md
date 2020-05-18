@@ -1,6 +1,6 @@
 # Strava Stats
 
-A little terminal application I threw together because IW as curious about some of my Strava stats
+A little terminal application I threw together because I was curious about some of my Strava stats
 
 # Before You Begin
 
