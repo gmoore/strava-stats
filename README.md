@@ -12,10 +12,18 @@ You'll need:
 
 # Setup
 
+### Get a Strava Access Token
+
+This is a bit of a pain. First you'll need to create an application. Then you'll need to use a tool to generate your access token. See details here: https://github.com/dblock/strava-ruby-client#strava-oauth-token
+
+### Set up the Token
+
 * Create a file called ".env"
 * Add this line to ".env"
 
 `STRAVA_ACCESS_TOKEN=(your_access_token)`
+
+### Bundle
 
 * `bundle install`
 
